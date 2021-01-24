@@ -92,8 +92,7 @@ body{
     width:200px;
     height:60px;
     position: absolute;
-    top:50%;
-    left:50%;
+    
     transform: translate(-50%,-50%);
     overflow:hidden;
  
@@ -160,8 +159,6 @@ a
     width:200px;
     height:60px;
     position: absolute;
-    top:50%;
-    left:20%;
     transform: translate(-50%,-50%);
     overflow:hidden;
  
@@ -170,8 +167,7 @@ a
     width:200px;
     height:60px;
     position: absolute;
-    top:20%;
-    left:50%;
+   
     transform: translate(-50%,-50%);
     overflow:hidden;
  
@@ -181,8 +177,7 @@ a
     width:200px;
     height:60px;
     position: absolute;
-    top:20%;
-    left:20%;
+    
     transform: translate(-50%,-50%);
     overflow:hidden;
  
@@ -191,8 +186,7 @@ a
     width:200px;
     height:60px;
     position: absolute;
-    top:20%;
-    left:80%;
+    
     transform: translate(-50%,-50%);
     overflow:hidden;
  
@@ -202,8 +196,7 @@ a
     width:200px;
     height:60px;
     position: absolute;
-    top:50%;
-    left:80%;
+   
     transform: translate(-50%,-50%);
     overflow:hidden;
  
@@ -489,3 +482,29 @@ a:hover
 }
 .btn5:hover
 {color:#B0B8B4FF}
+.coco
+{
+    float:right;
+    width:20%;
+    overflow:hidden;
+    height: 50px;
+    margin:2%;padding:30px
+
+}
+.author
+{
+    display:inline-block;text-align: center;overflow:hidden;width: 80%;margin-top:100px
+}
+.dedi
+{
+    float:left;font-weight: bold;font-family: Verdana, Geneva, Tahoma, sans-serif;color:#184A45FF;padding-top:10px;margin-right:5px;text-align: right;width: 70%
+}
+.social
+{
+    float:right;height:25px;margin:5px; padding:5px
+}
+.social img
+{
+    height: 100%;
+}
+h1{margin: 30px 0 80px 0}
