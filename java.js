@@ -8,13 +8,11 @@ function nonyet() {
 
 var quote = [
     "“The only thing that comes to a sleeping man is dreams.”",
-    "“Our future is our confidence and self-esteem.”",
-    "“Life is a wheel of fortune and it’s our turn to spin it.”",
     "“Nothing can stop me but loss of breath and I’m still breathing so it’s still on.”",
     "“Even the genius ask questions.”",
     "“Sky’s the limit.”",
-    "“Never let them know your next move.”",
-    "“Share your ideas”",
+    "“All we had to do was follow the dammn Train! CJ!!”",
+    "“Grove Street OG's come to do damage”",
     "“Your body is your mind”",
     "“If you do not go to the end, why start?”"
 ];
